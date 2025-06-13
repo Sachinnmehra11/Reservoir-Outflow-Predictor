@@ -38,19 +38,19 @@ It integrates both **analytical modeling** and a **Streamlit-based web app** to 
 ## 📂 Project Structure
 
 Reservoir-Outflow-Predictor/ <br>
-├── dashboard.py # Basic Streamlit app
-├── dashboardupdated.py # Enhanced dashboard with charts & DTU branding
-├── backpropagation.ipynb # Notebook implementing backpropagation
-├── montecarlo.ipynb # Monte Carlo simulation for outflow
-├── groupmethod.ipynb # GMDH-based prediction
-├── optimized.ipynb # Tuned ML model evaluation
-├── notebook.ipynb # General EDA and modeling
-├── Dataset.csv / dataset.xlsx # Input hydrological dataset
-├── OutputData.xlsx # Sample output predictions
-├── random_forest_model.pkl # Trained Random Forest model
-├── requirements.txt # Python dependencies (recommended)
-├── README.md # Project documentation
-└── .gitignore # Ignore unneeded files (e.g., .pyc, checkpoints)
+├── dashboard.py # Basic Streamlit app <br>
+├── dashboardupdated.py # Enhanced dashboard with charts & DTU branding <br>
+├── backpropagation.ipynb # Notebook implementing backpropagation <br>
+├── montecarlo.ipynb # Monte Carlo simulation for outflow <br>
+├── groupmethod.ipynb # GMDH-based prediction <br>
+├── optimized.ipynb # Tuned ML model evaluation <br>
+├── notebook.ipynb # General EDA and modeling <br>
+├── Dataset.csv / dataset.xlsx # Input hydrological dataset <br>
+├── OutputData.xlsx # Sample output predictions <br>
+├── random_forest_model.pkl # Trained Random Forest model <br>
+├── requirements.txt # Python dependencies (recommended) <br>
+├── README.md # Project documentation <br>
+└── .gitignore # Ignore unneeded files (e.g., .pyc, checkpoints) <br>
 
 
 ---
