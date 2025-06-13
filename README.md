@@ -2,7 +2,7 @@
 
 📘 **Final Year B.Tech Project – Delhi Technological University (DTU)**  
 📅 **Duration:** Dec 2024 – May 2025  
-👤 **Author:** Himanshu ([GitHub](https://github.com/Himanshu-1402) | [LinkedIn](https://linkedin.com/in/himanshu-saroha))
+👤 **Author:** Himanshu ([GitHub](https://github.com/Himanshu-1402) | [LinkedIn](www.linkedin.com/in/himanshu-saroha-07783122b))
 
 ---
 
