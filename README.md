@@ -14,6 +14,10 @@ It integrates both **analytical modeling** and a **Streamlit-based web app** to 
 
 ---
 
+![image1](Screenshot 2025-06-13 091704.png)
+![image2](Screenshot 2025-06-13 091736.png)
+![image3](Screenshot 2025-06-13 093748.png)
+
 ## 🔍 Key Features
 
 - ✅ Real-time outflow prediction using a trained **Random Forest** regression model  
