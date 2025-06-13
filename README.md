@@ -37,7 +37,7 @@ It integrates both **analytical modeling** and a **Streamlit-based web app** to 
 
 ## 📂 Project Structure
 
-Reservoir-Outflow-Predictor/
+Reservoir-Outflow-Predictor/ <br>
 ├── dashboard.py # Basic Streamlit app
 ├── dashboardupdated.py # Enhanced dashboard with charts & DTU branding
 ├── backpropagation.ipynb # Notebook implementing backpropagation
