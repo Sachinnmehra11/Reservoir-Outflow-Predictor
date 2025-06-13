@@ -14,9 +14,9 @@ It integrates both **analytical modeling** and a **Streamlit-based web app** to 
 
 ---
 
-![image1](Screenshot 2025-06-13 091704.png)
-![image2](Screenshot 2025-06-13 091736.png)
-![image3](Screenshot 2025-06-13 093748.png)
+![image1](/Screenshot%202025-06-13%20091704.png)
+![image2](/Screenshot%202025-06-13%20091736.png)
+![image3](/Screenshot%202025-06-13%20093748.png)
 
 ## 🔍 Key Features
 
