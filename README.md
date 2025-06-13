@@ -1,7 +1,7 @@
 # 💧 Reservoir Outflow Predictor using Machine Learning
 
 📘 **Final Year B.Tech Project – Delhi Technological University (DTU)**  
-📅 **Duration:** Dec 2024 – May 2025  
+📅 **Duration:** August 2024 – May 2025  
 👤 **Author:** Himanshu ([GitHub](https://github.com/Himanshu-1402) | 🔗 [LinkedIn](https://www.linkedin.com/in/himanshu-saroha-07783122b)
 
 
@@ -18,7 +18,7 @@ It integrates both **analytical modeling** and a **Streamlit-based web app** to 
 
 - ✅ Real-time outflow prediction using a trained **Random Forest** regression model  
 - 📊 ±5% confidence interval estimation  
-- 🧮 Multiple modeling approaches: **Monte Carlo**, **Group Method**, **Backpropagation**  
+- 🧮 Multiple modeling approaches: **Monte Carlo**, **Group Method**, **Backpropagation**, **Random Forest**  
 - 🎯 Clean and interactive **Streamlit dashboard** with DTU branding  
 - 🧾 Data preview and visualizations  
 - 📁 Easy-to-use modular project structure  
@@ -50,7 +50,7 @@ Reservoir-Outflow-Predictor/ <br>
 ├── random_forest_model.pkl # Trained Random Forest model <br>
 ├── requirements.txt # Python dependencies (recommended) <br>
 ├── README.md # Project documentation <br>
-└── .gitignore # Ignore unneeded files (e.g., .pyc, checkpoints) <br>
+└── .gitignore # Ignore unneeded files (e.g., .pyc, checkpoints)
 
 
 ---
